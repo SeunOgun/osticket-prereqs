@@ -38,7 +38,7 @@ This demonstration outlines the prerequisites and installation of the open-sourc
   - _This example uses Virtual Machine named `osTicket-VM`, with username `ostuser`, Size `4 vCPUs`_
 - Connect to that VM using Remote Desktop Connection (RDP).
 
-_If you don't know how to complete this prerequisite, refer to <a href="(https://github.com/SeunOgun/create-az-account)">THIS PAGE</a>_
+_If you don't know how to complete this prerequisite, refer to <a href="https://github.com/SeunOgun/create-az-account">THIS PAGE</a>_
 <hr>
 
 <h3>&#9313; Enabling Windows Features in the Virtual Machine</h3>
