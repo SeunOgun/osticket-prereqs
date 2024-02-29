@@ -19,7 +19,7 @@ This demonstration outlines the prerequisites and installation of the open-sourc
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure basic fundamentals (<a href="https://github.com/SeunOgun/azure-start#-create-a-resource-group">Demo</a>)
+- Microsoft Azure basic fundamentals (<a href="(https://github.com/SeunOgun/create-az-account)">Demo</a>)
 - Azure Virtual Machine running Windows OS
 - Installation Files within VM (<a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Download All</a>):
   - <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view">PHP Manager for IIS v1.5.0</a>
@@ -38,7 +38,7 @@ This demonstration outlines the prerequisites and installation of the open-sourc
   - _This example uses Virtual Machine named `osTicket-VM`, with username `ostuser`, Size `4 vCPUs`_
 - Connect to that VM using Remote Desktop Connection (RDP).
 
-_If you don't know how to complete this prerequisite, refer to <a href="https://github.com/JTYKolesar/azure-start#-create-a-virtual-machine">THIS PAGE</a>_
+_If you don't know how to complete this prerequisite, refer to <a href="(https://github.com/SeunOgun/create-az-account)">THIS PAGE</a>_
 <hr>
 
 <h3>&#9313; Enabling Windows Features in the Virtual Machine</h3>
